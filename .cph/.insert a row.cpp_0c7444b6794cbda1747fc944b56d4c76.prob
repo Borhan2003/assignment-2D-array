@@ -1,0 +1,1 @@
+{"name":"Local: insert a row","url":"c:\\Users\\USER\\Downloads\\assignment\\insert a row.cpp","tests":[{"id":1729958587359,"input":"3 3\n1 2 3\n4 5 6\n7 8 9\n0\n9 9 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\USER\\Downloads\\assignment\\insert a row.cpp","group":"local","local":true}

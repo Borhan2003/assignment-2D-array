@@ -1,0 +1,1 @@
+{"name":"Local: Swap 2 diagonals of a 2D array","url":"c:\\Users\\USER\\Downloads\\assignment\\Swap 2 diagonals of a 2D array.cpp","tests":[{"id":1729936691101,"input":"2 2\n1 2\n4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\USER\\Downloads\\assignment\\Swap 2 diagonals of a 2D array.cpp","group":"local","local":true}
